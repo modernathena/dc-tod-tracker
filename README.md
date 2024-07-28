@@ -5,6 +5,8 @@ Time of Actual Death, aka TOAD, is a lightweight, open-source time of death iden
 
 To use TOAD requires your own private API key. Use that key, plus the code of the dragon whose time of death you want to calculate, and wait. Based on your network speed, you can adjust how often to send requests to Dragon Cave, with options from every .1 to 60 seconds.
 
+Currently, TOAD is only available as a python app, but I plan on creating a web app so that it can be accessed with no downloads required by users.
+
 ### To compile TOAD yourself:
 TOAD is prebuilt as an EXE, but if you'd rather compile it yourself, you can follow the steps below.
 - Ensure python is downloaded
